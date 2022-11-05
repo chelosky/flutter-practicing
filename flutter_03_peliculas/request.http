@@ -1,0 +1,5 @@
+GET https://api.themoviedb.org/3/movie/popular?api_key=a5a2c71dcaa9650c12302a69b6cc9b18&language=en-US&page=1 HTTP/1.1
+###
+GET https://api.themoviedb.org/3/movie/508943/credits?api_key=a5a2c71dcaa9650c12302a69b6cc9b18&language=en-US&page=1 HTTP/1.1
+###
+GET https://api.themoviedb.org/3/search/movie?api_key=a5a2c71dcaa9650c12302a69b6cc9b18&language=en-US&query=batman HTTP/1.1
